@@ -1,5 +1,8 @@
 # Awesome Papers in Artificial Intelligence for Healthcare
 
+## Self-supervised Learning
+
+[Lead-agnostic Self-supervised Learning for Local and Global Representations of Electrocardiogram](https://arxiv.org/pdf/2203.06889.pdf)
 
 ## Survival Analysis
 
